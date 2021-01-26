@@ -4,46 +4,34 @@
 
 ## Introduction
 
-Hello! This is PatrickKR from Daejeon, South Korea.
+Hello! I am Hexahedron74 from South Korea Seoul!
 
-I am a student developer, mostly working alone.
+I am a middle school student and I am studying programming.
 
-I'm currently interested in Kotlin (feat. Minecraft: Java Edition) :heartpulse:
+My favorite languages is C# and Java and HTML/CSS/PHP :heartpulse:
 
-I'm busy these days, so I might not be able to work actively xD
+I am not that good at programming but I love programming. Please give me feedback if you want!
 
 ## Languages
 
 > Capable of
-> - Kotlin
-> - Java
+> - C#
+> - Python
+> - HTML
+> - CSS
+> - PHP(Little..)
 >
 > Learning
-> - Python
-> - Node.js (JavaScript / TypeScript)
 > - C, C++
->
-> Maybe Someday
-> - C#
-> - Scala
-
-## My Favorite Repositories
-
-> - [JetBrains - Kotlin](https://github.com/JetBrains/kotlin)
-> - [noonmaru - Tap](https://github.com/noonmaru/tap)
-> - [Mojang - Brigadier](https://github.com/Mojang/brigadier)
-> - [dmulloy2 - ProtocolLib](https://github.com/dmulloy2/ProtocolLib)
-> - [johnrengelman - shadow](https://github.com/johnrengelman/shadow)
-> - [Discord4J - Discord4J](https://github.com/Discord4J/Discord4J)
-> - [PaperMC - Paper](https://github.com/PaperMC/Paper)
-> - [TakahikoKawasaki - nv-websocket-client](https://github.com/TakahikoKawasaki/nv-websocket-client)
+> - Node.js (JavaScript / TypeScript)
+> - Java
+> - Kotlin
 
 ## Stats
 
-![Contribution](https://github-readme-stats.vercel.app/api?username=patrick-mc&cache_seconds=1800&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Contribution](https://github-readme-stats.vercel.app/api?username=hexahedron74&cache_seconds=1800&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-mc&cache_seconds=1800&theme=algolia)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hexahedron74&cache_seconds=1800&theme=algolia)
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=patrickkr)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=hexahedron74)
 
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=patrickkr&)](https://solved.ac/patrickkr)
