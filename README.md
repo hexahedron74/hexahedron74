@@ -31,5 +31,5 @@ I am not that good at programming but I love programming. Please give me feedbac
 
 ![Contribution](https://github-readme-stats.vercel.app/api?username=hexahedron74&cache_seconds=1800&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=hexahedron74)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Hexahedron74)
 
