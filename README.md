@@ -15,10 +15,10 @@ I am not that good at programming but I love programming. Please give me feedbac
 ## SNS
 
 >Naver Blog
->https://blog.naver.com/ithan0704
+> - https://blog.naver.com/ithan0704
 >
 >CodeGround WebSite
->https://codeground-team.netlify.app/
+> - https://codeground-team.netlify.app/
 
 ## Languages
 
