@@ -12,6 +12,14 @@ My favorite languages is C# and Java and HTML/CSS/PHP :heartpulse:
 
 I am not that good at programming but I love programming. Please give me feedback if you want!
 
+## SNS
+
+>Naver Blog
+>https://blog.naver.com/ithan0704
+>
+>CodeGround WebSite
+>https://codeground-team.netlify.app/
+
 ## Languages
 
 > Capable of
