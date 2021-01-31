@@ -24,7 +24,7 @@ I am not that good at programming but I love programming. Please give me feedbac
 
 > Capable of
 > - C#
-> - Python
+> - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 > - HTML
 > - CSS
 > - PHP(Little..)
