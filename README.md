@@ -26,7 +26,7 @@ I am not that good at programming but I love programming. Please give me feedbac
 > - C#
 > - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 > - HTML
-> - CSS
+> - <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
 > - PHP(Little..)
 >
 > Learning
