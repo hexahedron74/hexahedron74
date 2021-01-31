@@ -24,7 +24,7 @@ I am not that good at programming but I love programming. Please give me feedbac
 
 > Capable of
 > - <img src="https://img.shields.io/badge/csharp-3766AB?style=flat-square&logo=csharp"/></a>
-> - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Pythonc"/></a>
+> - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 > - <img src="https://img.shields.io/badge/html-f06520?style=flat-square&logo=html5&logoColor=white"/></a>
 > - <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 > - PHP(Little..)
