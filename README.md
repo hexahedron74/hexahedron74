@@ -23,11 +23,11 @@ I am not that good at programming but I love programming. Please give me feedbac
 ## Languages
 
 > Capable of
-> - <img src="https://img.shields.io/badge/csharp-3766AB?style=flat-square&logo=csharp"/></a>
+> - <img src="https://img.shields.io/badge/c_sharp-3766AB?style=flat-square&logo=c_sharp"/></a>
 > - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 > - <img src="https://img.shields.io/badge/html-f06520?style=flat-square&logo=html5&logoColor=white"/></a>
 > - <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-> - <img src="https://img.shields.io/badge/PHP-3766AB?style=flat-square&logo=PHP&logoColor=white"/></a>&nbsp 
+> - <img src="https://img.shields.io/badge/PHP-777777?style=flat-square&logo=PHP&logoColor=white"/></a>&nbsp 
 >
 > Learning
 > - C, C++
