@@ -34,6 +34,7 @@ I am not that good at programming but I love programming. Please give me feedbac
 > - Node.js (JavaScript / TypeScript)
 > - Java
 > - Kotlin
+> - Assembly
 
 ## Stats
 
