@@ -42,5 +42,5 @@ I am not that good at programming but I love programming. Please give me feedbac
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hexahedron74&cache_seconds=1800&theme=algolia)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Hexahedron74)](https://github.com/anuraghazra/github-readme-stats)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=hexahedron74)
 
