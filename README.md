@@ -17,7 +17,7 @@ I am not that good at programming but I love programming. Please give me feedbac
 >Naver Blog
 > - https://blog.naver.com/hexahedron74
 >
->CodeGround WebSite
+>Syntaxack WebSite
 > - https://codeground-team.netlify.app/
 
 ## Languages
