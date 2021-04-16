@@ -3,24 +3,6 @@
 ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhexahedron74%2Fhexahedron74)
 ![Followers](https://img.shields.io/github/followers/hexahedron74?style=social)
 
-## Introduction
-
-Hello! I am Hexahedron74 from South Korea Seoul!
-
-I am a middle school student and I am studying programming.
-
-My favorite languages is C# and Java and HTML/CSS/PHP :heartpulse:
-
-I am not that good at programming but I love programming. Please give me feedback if you want!
-
-## SNS
-
->Naver Blog
-> - https://blog.naver.com/hexahedron74
->
->Syntaxack WebSite
-> - https://syntaxack-team.netlify.app/
-
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
