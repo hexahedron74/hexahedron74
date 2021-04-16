@@ -21,9 +21,5 @@
   </div>
 </div>
 
-<h3 align="center"><b>✉️ Social Networks ✉️</b></h3>
-</br>
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
-- Leadership, Mentoring, Writing, Presentation
+### SNS
+- mail: hexahedron74@naver.com
