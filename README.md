@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"/></a> &nbsp 
-<hr>
+<hr size="5px">
 <h3 align="center"><b>📈 Stats 📈</b></h3>
 
 <div align="center">
