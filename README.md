@@ -21,7 +21,7 @@ I am not that good at programming but I love programming. Please give me feedbac
 >Syntaxack WebSite
 > - https://codeground-team.netlify.app/
 
-## Languages
+## Stack
 
 > Capable of
 > - <img src="https://img.shields.io/badge/C_Sharp-239120?style=flat-square&logo=CSharp"/></a>
