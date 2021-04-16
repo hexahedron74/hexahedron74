@@ -1,6 +1,7 @@
 # Hexahedron74's Profile
 
 ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhexahedron74%2Fhexahedron74)
+![Followers](https://img.shields.io/github/followers/hexahedron74?style=social)
 
 ## Introduction
 
