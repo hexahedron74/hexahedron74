@@ -1,4 +1,4 @@
-# Hexahedron74's Profile
+<h1 align="center"><b>Hexahedron74's Profile</b></h1>
 
 ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhexahedron74%2Fhexahedron74)
 ![Followers](https://img.shields.io/github/followers/hexahedron74?style=social)
