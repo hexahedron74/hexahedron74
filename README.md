@@ -24,4 +24,4 @@
 <h3 align="center"><b>✉️ Social Networks ✉️</b></h3>
 </br>
 <p align="center">
-<p hexahedron74@naver.com>
+(Naver Mail: hexahedron74@naver.com)
