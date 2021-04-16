@@ -21,4 +21,10 @@
   </div>
 </div>
 
+<h3 align="center"><b>✉️ Social Networks ✉️</b></h3>
+<img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&style=plastic"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white&style=plastic"/></a> &nbsp
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white&style=plastic"/></a> &nbsp
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&style=plastic"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white&style=plastic"/></a> &nbsp 
 
