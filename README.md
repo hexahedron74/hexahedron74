@@ -23,8 +23,8 @@
 
 <h3 align="center"><b>✉️ Social Networks ✉️</b></h3>
 </br>
-💡 &nbsp; I'm a software developer and I am a middle student in Seoul.\
-🎓 &nbsp;I'm studying Java and Kotlin.\
-🌱 &nbsp;I'm on track for learning more about Desktop Program and Back-End.\
-✍️ &nbsp;In my free time, I play RainbowSixSiege or play with my friends.\
-✉️ &nbsp;You can email me at hexahedron74@naver.com. I'll try to respond as soon as possible!\
+-💡 &nbsp; I'm a software developer and I am a middle student in Seoul.\
+-🎓 &nbsp;I'm studying Java and Kotlin.\
+-🌱 &nbsp;I'm on track for learning more about Desktop Program and Back-End.\
+-✍️ &nbsp;In my free time, I play RainbowSixSiege or play with my friends.\
+-✉️ &nbsp;You can email me at hexahedron74@naver.com. I'll try to respond as soon as possible!\
