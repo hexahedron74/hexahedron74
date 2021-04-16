@@ -24,4 +24,5 @@
 <h3 align="center"><b>✉️ Social Networks ✉️</b></h3>
 </br>
 <p align="center">
-(Naver Mail: hexahedron74@naver.com)
+Naver Mail: hexahedron74@naver.com
+WebSite: syntaxack-team.netlify.app
