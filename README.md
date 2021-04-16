@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"/></a> &nbsp 
 
-## Stats
+<h3 align="center"><b>📈 Stats 📈</b></h3>
 
 ![Contribution](https://github-readme-stats.vercel.app/api?username=hexahedron74&cache_seconds=1800&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
