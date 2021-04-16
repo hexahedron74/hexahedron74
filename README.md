@@ -23,7 +23,6 @@
 
 <h3 align="center"><b>✉️ Social Networks ✉️</b></h3>
 </br>
-<p align="center">
 💡 &nbsp; I'm a software developer and I am a middle student in Seoul.\
 🎓 &nbsp;I'm studying Java and Kotlin.\
 🌱 &nbsp;I'm on track for learning more about Desktop Program and Back-End.\
