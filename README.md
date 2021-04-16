@@ -15,9 +15,10 @@
 <h3 align="center"><b>📈 Stats 📈</b></h3>
 
 <div align="center">
-(https://github-readme-stats.vercel.app/api?username=hexahedron74&cache_seconds=1800&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
- </div>
- 
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hexahedron74&cache_seconds=1800&theme=algolia)
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexahedron74&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hexahedron74&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
 
 
