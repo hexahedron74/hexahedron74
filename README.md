@@ -19,7 +19,7 @@ I am not that good at programming but I love programming. Please give me feedbac
 > - https://blog.naver.com/hexahedron74
 >
 >Syntaxack WebSite
-> - https://codeground-team.netlify.app/
+> - https://syntaxack-team.netlify.app/
 
 ## Stack
 
