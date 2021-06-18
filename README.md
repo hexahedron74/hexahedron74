@@ -6,9 +6,8 @@
 <h3 align="center"><b>📢 Notice 📢</b></h3>
 </br>
 <p align="center">
-기말고사 기간 ㅠ
+기말고사 기간 ㅠㅠ &nbsp
 Final Exam Period (T_T)
-<hr>
 <hr>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
