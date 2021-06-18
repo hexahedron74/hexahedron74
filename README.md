@@ -3,6 +3,13 @@
 ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhexahedron74%2Fhexahedron74)
 ![Followers](https://img.shields.io/github/followers/hexahedron74?style=social)
 <hr>
+<h3 align="center"><b>📢 Notice 📢</b></h3>
+</br>
+<p align="center">
+기말고사 기간 ㅠ
+Final Exam Period (T_T)
+<hr>
+<hr>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
